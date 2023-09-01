@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Black Coffee",
+        "image": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmVlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800",
+        "weight": "130g",
+        "price": 40
+    },
+    {
+        "id": 2,
+        "name": "Latte",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg/509px-Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg",
+        "weight": "150g",
+        "price": 7.99
+    },
+    {
+        "id": 3,
+        "name": "Cappuccino",
+        "image": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmVlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800",
+        "weight": "180g",
+        "price": 9.99
+    },
+    {
+        "id": 4,
+        "name": "Americano",
+        "image": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmVlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800",
+        "weight": "200g",
+        "price": 6.99
+    },
+    {
+        "id": 5,
+        "name": "Doppio",
+        "image": "https://images.unsplash.com/photo-1502471602546-17554aac1160?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "weight": "250g",
+        "price": 14.99
+    },
+    {
+        "id": 6,
+        "name": "Red Eye",
+        "image": "https://images.unsplash.com/photo-1535403318185-d612e6b1dc3c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800",
+        "weight": "350g",
+        "price": 15.99
+    },
+    {
+        "id": 7,
+        "name": "Aguapanela Coffee",
+        "image": "https://images.unsplash.com/photo-1519831802596-6aadd85ff671?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800",
+        "weight": "320g",
+        "price": 17.99
+    },
+    {
+        "id": 8,
+        "name": "Cortadito",
+        "image": "https://images.unsplash.com/photo-1559001724-fbad036dbc9e?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800",
+        "weight": "285g",
+        "price": 16.99
+    },
+    {
+        "id": 9,
+        "name": "Guayoyo",
+        "image": "https://images.unsplash.com/photo-1559001724-fbad036dbc9e?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800",
+        "weight": "275g",
+        "price": 24.99
+    },
+    {
+        "id": 10,
+        "name": "Irish",
+        "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800&q=60",
+        "weight": "295g",
+        "price": 23.99
+    },
+    {
+        "id": 11,
+        "name": "Affogato",
+        "image": "https://images.unsplash.com/photo-1489672155498-1331365e0dcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800&q=60",
+        "weight": "300g",
+        "price": 25.99
+    },
+    {
+        "id": 12,
+        "name": "Café au Lait",
+        "image": "https://images.unsplash.com/photo-1520949044152-74b54c164c31?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNvZmZlZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=800",
+        "weight": "320g",
+        "price": 20.99
+    }
+]
