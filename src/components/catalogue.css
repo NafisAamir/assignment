@@ -1,5 +1,5 @@
 .catalogue-title {
-    margin-top: 100px;
+    /* margin-top: 50px; */
     text-align: center;
     font-size: 30px;
 }
@@ -10,6 +10,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     place-items: center;
+    padding-bottom: 70px;
 }
 
 .product {
